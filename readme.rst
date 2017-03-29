@@ -1,6 +1,33 @@
 wyvern-qt: Qt5 GUI for wyvern
 ===============================
 
+Basic details:
+--------------
+
+- Ticker: WYV 
+- Algorithm: NIST5
+- Max Supply: 12,000,000 WYV
+- Premine: NO. 
+  - POW + POS Hybrid 
+- Block Time: 120sec
+- Block Size: 2MB
+- Difficulty Retarget: 480 
+- POS: 5% Annually
+
+STRUCTURE:
+----------
+==============  ======
+ Blocks mined   Reward
+==============  ======
+1-100           0  WYV
+100-25300       50 WYV
+25300-50500     25 WYV
+50500-75700     15 WYV
+75700-100900    10 WYV
+100900-1996900  5  WYV
+==============  ======
+
+
 Build instructions
 ===================
 
