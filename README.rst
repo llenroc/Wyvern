@@ -1,14 +1,23 @@
 Project Wyvern: The Gamer's Coin.
 ===============================
 
-Basic details:
+Wyvern was created to provide a coin that is easily accessible to gamers.
+Using the NIST5 algorithm, gamers can mine with can mine with GPUs (or CPUs
+at a slower rate) without ASIC interference. This gives everyone a fair chance 
+to contribute to the network.  NIST5 was chosen due to causing lower operating 
+temperatures than other algorithims. Wyvern may be exchanged for Steam items 
+or games, as well as many popular MMO items. By using a Pow/Pos hybrid system, 
+Wyvern ensures the coin has longevity past its mining period, and Pos will 
+also encourage retention of the coin.  
+
+Stats:
 --------------
 
 - Ticker: WYV 
 - Algorithm: NIST5
 - Max Supply: 12,000,000 WYV
 - Premine: NO. 
-- POW + POS Hybrid 
+- Coin type: POW + POS Hybrid 
 - Block Time: 120sec
 - Block Size: 2MB
 - Difficulty Retarget: 480 
