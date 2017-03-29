@@ -1,4 +1,4 @@
-wyvern-qt: Qt5 GUI for wyvern
+Project Wyvern: The Gamer's Coin.
 ===============================
 
 Basic details:
@@ -8,7 +8,7 @@ Basic details:
 - Algorithm: NIST5
 - Max Supply: 12,000,000 WYV
 - Premine: NO. 
-  - POW + POS Hybrid 
+- POW + POS Hybrid 
 - Block Time: 120sec
 - Block Size: 2MB
 - Difficulty Retarget: 480 
