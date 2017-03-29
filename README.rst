@@ -1,14 +1,7 @@
 Project Wyvern: The Gamer's Coin.
 ===============================
 
-Wyvern was created to provide a coin that is easily accessible to gamers.
-Using the NIST5 algorithm, gamers can mine with can mine with GPUs (or CPUs
-at a slower rate) without ASIC interference. This gives everyone a fair chance 
-to contribute to the network.  NIST5 was chosen due to causing lower operating 
-temperatures than other algorithims. Wyvern may be exchanged for Steam items 
-or games, as well as many popular MMO items. By using a Pow/Pos hybrid system, 
-Wyvern ensures the coin has longevity past its mining period, and Pos will 
-also encourage retention of the coin.  
+Wyvern was created to provide a coin that is easily accessible to gamers. Using the NIST5 algorithm, gamers can mine with GPUs (or CPUs at a slower rate) without ASIC interference. This gives everyone a fair chance to contribute to the network.  NIST5 was chosen due to causing lower operating temperatures than other algorithims. Wyvern may be exchanged for Steam items or games, as well as many popular MMO items. By using a Pow/Pos hybrid system, Wyvern ensures the coin has longevity past its mining period, and Pos will also encourage retention of the coin.  
 
 Stats:
 --------------
@@ -36,6 +29,11 @@ STRUCTURE:
 100900-1996900  5  WYV
 ==============  ======
 
+Getting started mining with Windows binaries
+=============================================
+
+1) Download wyvern-qt.exe to a folder of your choice and launch it twice (Due to an unsolved bug, the app will crash on first launch as it attempts to create a wallet. Don't panic! Just relaunch it and it will open successfully).
+2) Join the pool at wyv.suprnova.cc and follow the instructions there. 
 
 Build instructions
 ===================
