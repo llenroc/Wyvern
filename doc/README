@@ -11,8 +11,6 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-wyvern is a free open source project derived from wyvern, with
-the goal of providing a long-term energy-efficient scrypt-based crypto-currency.
-Built on the foundation of wyvern, PPCoin and Wyvern, innovations such as proof-of-stake
-help further advance the field of crypto-currency.
+wyvern is a free open source project derived from Icebergcoin, with
+the goal of providing a long-term energy-efficient NIST5-based crypto-currency.
 
