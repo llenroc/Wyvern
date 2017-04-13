@@ -42,7 +42,7 @@
          <enum>Qt::CustomContextMenu</enum>
         </property>
         <property name="toolTip">
-         <string>Double-click to edit address or label</string>
+         <string>Double-click label to edit</string>
         </property>
         <property name="frameShape">
          <enum>QFrame::NoFrame</enum>
