@@ -80,7 +80,7 @@ Note: If you just want to install wyvernd on Gentoo, you can add the wyvern
 emerge -av1 --noreplace boost glib openssl sys-libs/db
 
 Take the following steps to build (no UPnP support):
- cd ${BLACKCOIN_DIR}/src
+ cd ${WYVERN_DIR}/src
  make -f makefile.unix USE_UPNP= BDB_INCLUDE_PATH='/usr/include/db4.8'
  strip wyvernd
 
