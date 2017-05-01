@@ -32,7 +32,7 @@ STRUCTURE:
 Getting started mining with Windows binaries
 =============================================
 
-1) Download wyvern-qt.exe from the Releases section to a folder of your choice and launch it twice (Due to an unsolved bug, the app will crash on first launch as it attempts to create a wallet. Don't panic! Just relaunch it and it will open successfully).
+1) Download wyvern-qt.exe from the Releases section to a folder of your choice and launch it twice (Due to an unsolved bug, the app will crash on first launch as it attempts to create a wallet. Don't panic! Just relaunch it and it will open successfully. This will be fixed in the upcoming release 1.0.4).
 2) Join the pool at `wyv.suprnova.cc <http://wyv.suprnova.cc/index.php?page=gettingstarted>`_ and follow the instructions there. 
 
 Build instructions
